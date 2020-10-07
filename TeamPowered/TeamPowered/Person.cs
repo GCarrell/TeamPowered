@@ -9,7 +9,8 @@ namespace TeamPowered
 {
     class Person
     {
-        public string name(Get; set; )
+        public string Firstname(Get; set; )
+        public string Lastname(Get; set; )
         public string Address ( get; set; )  
     }
 }
